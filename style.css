@@ -315,3 +315,7 @@ body.dark {
     transform: rotate(90deg);
   }
 }
+.selected {
+  background-color: var(--bg-color);
+}
+
